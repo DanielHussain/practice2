@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 0 auto;
+	padding: lem;
+	border: 1px solid; #619eff;
+	background-color: #ffdda1;
+}
+
+h1 {
+	   margin: 0;
+	   padding: .25em;
+	   font-size: 200%;
+	   color: #354ea0;
+}
+
+img {
+	float: left;
+	margin: 0 lem;
+}
+
+p{
+	 margin: 0;
+	 padding-bottom: .5em;
+}
